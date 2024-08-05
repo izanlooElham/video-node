@@ -1,0 +1,13 @@
+{
+  "name": "file2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev":"nodemon node server.js",
+    "start": "nodemon node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
